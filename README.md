@@ -12,5 +12,9 @@ Segundo cliente da plataforma que criei para o [Stop Trucks](https://github.com/
 ## Stack
 Kotlin Multiplatform · Compose Multiplatform · Firebase · IA com especificação (SDD e PRD)
 
+## Telas (Android, dados de demonstração)
+
+<p><img src="screenshots/android-01-login.png" width="220"> <img src="screenshots/android-02-painel.png" width="220"></p>
+
 ---
 **English:** Second customer of my truck-cleaning management platform: same Kotlin Multiplatform codebase, rebranded with its own Firebase project and client-specific rules (per-employee commission).
