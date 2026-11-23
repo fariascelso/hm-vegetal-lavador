@@ -10,7 +10,7 @@ Segundo cliente da plataforma que criei para o [Stop Trucks](https://github.com/
 - Mostra que a base em Kotlin Multiplatform foi pensada para ser reaproveitada entre empresas do mesmo segmento.
 
 ## Stack
-Kotlin Multiplatform · Compose Multiplatform · Firebase · Claude Code
+Kotlin Multiplatform · Compose Multiplatform · Firebase · IA com especificação (SDD e PRD)
 
 ---
 **English:** Second customer of my truck-cleaning management platform: same Kotlin Multiplatform codebase, rebranded with its own Firebase project and client-specific rules (per-employee commission).
